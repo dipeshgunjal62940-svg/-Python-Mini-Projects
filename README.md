@@ -1,4 +1,4 @@
- # OIBSIP — Python Internship Projects
+ # Python-Mini projects
 
 This repository contains Python projects developed as part of my programming internship tasks with Oasis Infobyte.
 
